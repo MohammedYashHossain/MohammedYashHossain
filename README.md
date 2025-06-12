@@ -52,6 +52,7 @@
 
 ### 🚀 Projects
 
+- 🦖 **[Kaiju Tower Defense (KTD)]((https://github.com/MohammedYashHossain/KTD)):** Tower Defense Game + Pygame + OOP  
 - 🔬 **[CareerCoach AI](https://mohammedyashhossain.github.io/Career-Coach-Ai/):** Full-stack career advisor using Node.js + OpenAI  
 - 💊 **[Pharmacy Inventory Optimization](https://github.com/sameerj05/datathon2025):** Streamlit dashboard + ARIMA forecasting for pharmaceutical data  
 - 🏓 **[Pickle.io](https://github.com/MohammedYashHossain/PickleBall):** Web-based interactive pickleball game  
