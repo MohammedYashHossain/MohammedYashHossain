@@ -62,9 +62,10 @@
 
 ### 👨‍💼 Experience Highlights
 
+- **IDEAL Institute of Technology – Machine Learning Engineer Intern:** Python, Pytorch, Pyspark, Hugging Face 🤖 
 - **Hairalyze – App Dev Intern:** Flutter, Dart, OpenAI API, App Store launch 🚀  
 - **Reclip – SWE Intern:** Python automation, digital marketing strategy 📱  
-- **Headstarter AI – SWE Fellow:** AI apps with Next.js, Python, and OpenAI 🤖  
+- **Headstarter AI – SWE Fellow:** AI apps with Next.js, Python, and OpenAI 🎯 
 - **Holiday Handouts – Co-Founder & Tech Lead:** Non-profit site + 10K+ IG impressions 🎁
 
 ---
