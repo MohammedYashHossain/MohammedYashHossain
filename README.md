@@ -33,18 +33,22 @@
 #### 🌐 Web & App
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js)
 
 #### 📊 Data & Tools
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pygame](https://img.shields.io/badge/-Pygame-1B1B1B?style=flat&logo=pygame)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 ![ARIMA](https://img.shields.io/badge/-ARIMA-orange?style=flat)
 
 #### ☁️ Cloud & Dev
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
