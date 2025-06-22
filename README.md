@@ -13,8 +13,8 @@
 - 🎓 Sophomore @ Rutgers University - Newark  
 - 👨‍💻 Pursuing a B.S. in Computer Science & Mathematics (Double Major)  
 - 🔍 Interested in Full-Stack Development, Data Science, and FinTech  
-- 🚀 Currently building AI tools & Flutter apps, and learning AWS & Cloud Architecture  
-- 🌟 Passionate about helping underserved communities through tech & outreach  
+- 🚀 Currently building Projects, AI tools & Flutter apps, and learning AWS & Cloud Architecture  
+- 🏐 Passionate about bouncing 10 foot line, staying out of the kitchen, and coding cool shit
 
 ---
 
