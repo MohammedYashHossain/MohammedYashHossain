@@ -12,10 +12,10 @@
   </a>
   <br />
   <a href="https://www.youtube.com/@mowhossain">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-View-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@volley.hossain">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-View-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
